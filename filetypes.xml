@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="ajax" type="ARCHIVE" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
