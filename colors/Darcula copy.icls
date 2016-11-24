@@ -117,6 +117,13 @@
         <option name="FOREGROUND" value="e88685" />
       </value>
     </option>
+    <option name="JS.BADCHARACTER">
+      <value>
+        <option name="FOREGROUND" value="ff2b41" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="39800b" />
